@@ -1,0 +1,52 @@
+HEART ANATOMY — PROPRIETARY RIGHTS NOTICE
+
+Copyright (c) 2026 the project owner, to the extent copyright subsists and is
+held by that owner. All rights reserved.
+
+1. Scope
+
+This notice applies to the project-specific source code, design, documentation,
+model-generation code, heart geometry, textures, images, and other original
+project materials, only to the extent that the project owner holds rights in
+them. "Project owner" means the person or entity that lawfully holds those
+rights, not someone who merely downloads, copies, or forks this project.
+
+2. No general permission to reuse
+
+No license is granted to others to use, copy, modify, create derivative works
+from, reproduce, distribute, republish, sublicense, sell, or incorporate the
+covered materials into another project without the project owner's prior
+written permission. This restriction applies to commercial and noncommercial
+reuse. Access to a copy of this project does not by itself grant these rights.
+
+If the owner makes a deployed website available, visitors may interact with it
+through its intended interface. That permission does not authorize extracting
+or reusing its source code, models, textures, or other project assets.
+
+3. Third-party materials
+
+Third-party software, templates, dependencies, and any material derived from
+them remain subject to their respective licenses. Their existing permissions
+and obligations are not withdrawn or restricted by this notice. In particular,
+software dependencies keep the licenses supplied with their packages.
+See THIRD_PARTY_NOTICES.md and the licenses supplied with each
+dependency. Those permissions do not grant rights to unrelated original
+project materials.
+
+4. Rights and access limits
+
+This notice reserves only rights that exist under applicable law and are held
+by the project owner. It does not create copyright in unprotectable material,
+including any AI-generated material that applicable law does not protect, or
+override legal exceptions, third-party rights, or permissions independently
+granted under applicable hosting-platform terms.
+
+This notice is not an access-control mechanism. Keep the repository and files
+private if other people must not obtain them. Publishing files or browser-
+delivered assets can make them technically accessible despite this notice.
+
+5. Warranty
+
+To the extent permitted by applicable law, the covered materials are supplied
+without warranties. The heart model is an approximate educational illustration
+and is not a clinically validated anatomical reference.
